@@ -1,0 +1,10 @@
+{
+	"selectMenuLabel": "Label",
+	"selectMenuId": "m_selection",
+	"selectMenuName": "m_selection",
+	"selectMenuOptions": [
+		"Option One",
+		"Option Two",
+		"Option Three"
+	]
+}

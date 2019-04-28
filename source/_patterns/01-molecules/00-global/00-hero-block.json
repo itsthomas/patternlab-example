@@ -1,0 +1,10 @@
+{
+  "imgSrc": "../../images/placeholders/hero_block.png",
+  "imgAlt": "Hero Block",
+  "headline": "Lorem Ipsum Dolor Sit Amet",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "cta": {
+    "text": "Lorem Ipsum",
+    "link": "#"
+  }
+}

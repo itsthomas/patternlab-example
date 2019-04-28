@@ -1,0 +1,9 @@
+{
+	"selectMenuId": "selection",
+	"selectMenuName": "selection",
+	"selectMenuOptions": [
+		"Option One",
+		"Option Two",
+		"Option Three"
+	]
+}

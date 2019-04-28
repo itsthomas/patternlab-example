@@ -1,0 +1,18 @@
+<div class="m-hero-block {{styleModifier}}">
+	<div class="m-hero-block__image-wrapper">
+		<img class="m-hero-block__image" src="{{imgSrc}}" alt="{{imgAlt}}">
+	</div>
+
+	<div class="m-hero-block__content">
+		<h1 class="m-hero-block__headline">{{headline}}</h1>
+
+		{{#description}}
+			<p class="m-hero-block__description">{{description}}</p>
+		{{/description}}
+
+		{{#cta}}
+			<!-- @NOTE: Review at a later point to determine best practice -->
+			<a class="m-hero-block__cta" href="{{cta.link}}">{{> atoms-primary-button(primaryBtnText: "{{cta.text}}")}}</a>
+		{{/cta}}
+	</div>
+</div>

@@ -1,0 +1,13 @@
+{
+  "imgSrc": "../../images/placeholders/media_block.png",
+  "imgAlt": "Media Block",
+  "headline": {
+    "class": "",
+    "text": "Lorem Ipsum Dolor Sit Amet"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "cta": {
+    "text": "Lorem Ipsum",
+    "link": "#"
+  }
+}

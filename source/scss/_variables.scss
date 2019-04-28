@@ -1,0 +1,60 @@
+/*
+ * Colors
+ */
+
+// Brand Colors
+$color-primary: #ffd815;
+$color-secondary: #212121;
+
+// Neutral Colors
+$color-white: #FFF;
+$color-black: #212121;
+$color-gray: #545454;
+$color-light-gray: #7e7e7e;
+$color-light-gray2: #979797;
+$color-light-gray3: #b8b8b8;
+$color-light-gray4: #d8d8d8;
+$color-light-gray5: #eaeaea;
+$color-light-gray6: #eaeaea;
+
+
+// Utility Colors
+$color-green: #3ac63b;
+$color-red: #d0021b;
+$color-yellow: #ffd815;
+$color-blue: #2977d0;
+
+/*
+ * Imported Fonts
+ */
+
+$font-base-regular: 'Avalon Regular',  Arial, 'Helvetica Neue', Helvetica, sans-serif;
+$font-base-bold: 'Avalon Bold',  Arial, 'Helvetica Neue', Helvetica, sans-serif;
+$font-base-demi: 'Avalon Demi',  Arial, 'Helvetica Neue', Helvetica, sans-serif;
+$font-base-light: 'Avalon Light',  Arial, 'Helvetica Neue', Helvetica, sans-serif;
+/*
+ * Font Variables
+ */
+
+// Font Sizes
+$font-size-base: 16px;
+
+// Font Families
+$font-family-primary: $font-base-regular;
+$font-family-secondary: $font-base-demi;
+
+// Icon Font Family
+$font-family-icon: 'icomoon';
+
+// Font Weights
+$font-weight-light: 300;
+$font-weight-normal: 400;
+$font-weight-bold: 700;
+
+
+/*
+ * Break Points
+ */
+
+$bp-tablet: 768px;
+$bp-desktop: 1024px;

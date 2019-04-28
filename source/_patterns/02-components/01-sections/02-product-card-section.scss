@@ -1,0 +1,26 @@
+.c-product-card-section {
+	&__title {
+		display: inline-block;
+
+		&:after {
+			content: '';
+			display: block;
+			width: 60%;
+			height: 10px;
+			background-color: $color-primary;
+		}
+	}
+}
+
+.c-product-card-list {
+	display: flex;
+	flex-wrap: wrap;
+
+	.m-product-card {
+		width: calc(100% / 2);
+
+		@media (min-width: ($bp-tablet)) {
+	        width: calc(100% / 4);
+	    }
+	}
+}

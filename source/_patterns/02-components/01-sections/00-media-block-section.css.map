@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,mBAAmB,CAAC;EACnB,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,IAAI;CASf;;AAXD,AAIC,mBAJkB,CAIlB,cAAc,CAAC;EACd,aAAa,EAAE,IAAI;CAKnB;;AAVF,AAOE,mBAPiB,CAIlB,cAAc,AAGZ,WAAW,CAAC;EACZ,aAAa,EAAE,CAAC;CAChB",
+    "sources": [
+        "00-media-block-section.scss"
+    ],
+    "names": [],
+    "file": "00-media-block-section.css"
+}

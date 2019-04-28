@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,CAAC;EACZ,OAAO,EAAE,YAAY;CAMrB;;AAPD,AAGC,YAHW,CAGX,GAAG,CAAC;EACH,OAAO,EAAE,KAAK;EACd,SAAS,EAAE,KAAK;CAChB",
+    "sources": [
+        "00-logo-link.scss"
+    ],
+    "names": [],
+    "file": "00-logo-link.css"
+}

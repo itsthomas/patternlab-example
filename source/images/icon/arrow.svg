@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Navigation/Button/Universal/Next/Default</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Gift-Packaging" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="GiftPackaging_Desktop" transform="translate(-964.000000, -1845.000000)">
+            <g id="Organism/Carousel/Editorial/Desktop" transform="translate(10.000000, 1733.000000)">
+                <g id="Navigation/Button/Universal/Next/Default" transform="translate(954.000000, 112.000000)">
+                    <circle id="Oval-keyline" fill="#FFD815" cx="24" cy="24" r="24"></circle>
+                    <g id="Icon/Arrow-Next/Black" transform="translate(14.000000, 14.000000)" fill="#000000">
+                        <path d="M18.8564981,9.14625 L13.0191336,3.14625 C12.8303921,2.95125 12.5210118,2.95125 12.3322704,3.14625 C12.142556,3.34025 12.142556,3.65825 12.3322704,3.85325 L17.3378104,8.99925 L1.48644704,8.99925 C1.21792828,8.99925 1,9.22225 1,9.49925 C1,9.77525 1.21792828,9.99925 1.48644704,9.99925 L17.3378104,9.99925 L12.3322704,15.14425 C12.142556,15.33925 12.142556,15.65725 12.3322704,15.85125 C12.427614,15.95025 12.5521444,15.99825 12.675702,15.99825 C12.8002324,15.99825 12.9247629,15.94925 13.0210794,15.85125 L18.8584439,9.85125 C19.0471854,9.65725 19.0471854,9.33925 18.8584439,9.14425 L18.8564981,9.14625 Z" id="Fill-2989"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

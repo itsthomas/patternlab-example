@@ -1,0 +1,18 @@
+<div class="m-media-card {{styleModifier}}">
+	<div class="m-media-card__image-wrapper">
+		<img class="m-media-card__image" src="{{imgSrc}}" alt="{{imgAlt}}">
+	</div>
+
+	<div class="m-media-card__content">
+		<h5 class="{{headline.class}}">{{headline.text}}</h5>
+
+		{{#description}}
+			<p class="m-media-card__description">{{description}}</p>
+		{{/description}}
+
+		{{#cta}}
+			<!-- @NOTE: Review at a later point to determine best practice -->
+			{{> atoms-text-button(styleModifier:"m-media-card__cta", textBtnLink:"{{cta.link}}", textBtnText: "{{cta.text}}")}}
+		{{/cta}}
+	</div>
+</div>

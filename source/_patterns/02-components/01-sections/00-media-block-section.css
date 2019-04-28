@@ -1,0 +1,16 @@
+.c-media-block-list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.c-media-block-list .m-media-block {
+  margin-bottom: 20px;
+}
+
+.c-media-block-list .m-media-block:last-child {
+  margin-bottom: 0;
+}
+/*# sourceMappingURL=00-media-block-section.css.map */
